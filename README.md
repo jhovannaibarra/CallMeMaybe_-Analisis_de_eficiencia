@@ -11,7 +11,7 @@ Me encargué del proceso completo de análisis, desde la preparación y limpieza
 
 Trabajé con dos conjuntos principales de datos: registros de llamadas y datos de clientes.
 
-Proceso y decisiones
+Proceso y decisiones:
 * Revisé la estructura y calidad de los datos antes de comenzar el análisis.
 * Identifiqué y eliminé 4,900 registros duplicados, trabajando finalmente con 49,002 registros.
 * Analicé variables relacionadas con llamadas perdidas, tiempo de espera y llamadas salientes.
@@ -21,6 +21,7 @@ Proceso y decisiones
 * Clasifiqué a los operadores según la cantidad de indicadores de ineficiencia que cumplían.
 
 Resultado y aprendizaje.
+
 El análisis permitió identificar 10 operadores potencialmente ineficaces entre los operadores evaluados.
 
 Los resultados mostraron diferencias estadísticamente significativas entre los grupos en tasa de llamadas perdidas, tiempo de espera y volumen de llamadas salientes.

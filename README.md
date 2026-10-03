@@ -1,7 +1,7 @@
 # CallMeMaybe_Analisis_de_eficiencia
 CallMeMaybe — Análisis de eficiencia de operadores 
 
-#Contexto y problema.
+# Contexto y problema.
 
 CallMeMaybe es un proyecto de análisis de datos para una empresa de telecomunicaciones. El objetivo fue analizar el desempeño de los operadores e identificar aquellos que presentaban indicadores asociados con una posible ineficiencia.
 
